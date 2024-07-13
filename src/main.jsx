@@ -7,14 +7,15 @@ import { Routes } from "react-router-dom";
 import Template from "./layouts/Template.jsx";
 import { Route } from "react-router-dom";
 import About from "./pages/About.jsx";
+import Message from "./pages/Message.jsx";
 
 ReactDOM.createRoot(document.getElementById("root")).render(
   <React.StrictMode>
-    {/* // <App content={"Hello"} content2={"Hello"} /> */}
     <BrowserRouter>
       <Routes>
         <Route element={<Template />}>
           <Route path="/" element={<App />} />
+          <Route path="/message" element={<Message />} />
           <Route path="/about" element={<About />} />
         </Route>
       </Routes>
