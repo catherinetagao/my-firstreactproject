@@ -7,11 +7,11 @@ function App({ content, content2 }) {
       <ImageViewer />
 
       <MyButton
-        className={"btn btn-primary btn-md w-full"}
+        className={"btn btn-primary btn-md w-full mt-5"}
         btnName={"Submit"}
       />
       <MyButton
-        className={"btn btn-secondary btn-md w-full"}
+        className={"btn btn-secondary btn-md w-full mt-5"}
         btnName={"Post"}
       />
     </>
