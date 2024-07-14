@@ -11,7 +11,7 @@ const About = () => {
           <div className="bg-gray-100 rounded-lg shadow-lg overflow-hidden">
             <img
               alt="project image"
-              src="./src/images/Simple Portfolio Website.png"
+              src="./images/Simple Portfolio Website.png"
               className="w-full rounded-lg"
             />
           </div>
