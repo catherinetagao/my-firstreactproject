@@ -2,17 +2,14 @@ import React from "react";
 
 const About = () => {
   return (
-    <div
-      className="flex flex-col items-center justify-center py-10 lg:py-20"
-      id="projects"
-    >
+    <div className="flex flex-col items-center justify-center" id="projects">
       <div className="container mx-auto flex flex-col gap-8">
         <div className="grid grid-cols-1 md:grid-cols-2 gap-8">
           <div className="bg-gray-100 rounded-lg shadow-lg overflow-hidden">
             <img
               alt="project image"
-              src="./images/Simple Portfolio Website.png"
-              className="w-full rounded-lg"
+              src="../assets/images/Simple Portfolio Website.png"
+              className="h-full rounded-lg"
             />
           </div>
           <div className="bg-gray-300 rounded-lg shadow-lg p-6">

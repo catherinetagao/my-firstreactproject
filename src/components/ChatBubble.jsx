@@ -8,7 +8,7 @@ const ChatBubble = () => {
           <div className="w-10 rounded-full">
             <img
               alt="Avatar"
-              src="https://img.daisyui.com/images/stock/photo-1534528741775-53994a69daeb.jpg"
+              src="https://randomuser.me/api/portraits/women/43.jpg"
             />
           </div>
         </div>
@@ -21,7 +21,7 @@ const ChatBubble = () => {
           <div className="w-10 rounded-full">
             <img
               alt="Avatar"
-              src="https://img.daisyui.com/images/stock/photo-1534528741775-53994a69daeb.jpg"
+              src="https://randomuser.me/api/portraits/men/43.jpg"
             />
           </div>
         </div>
@@ -34,7 +34,7 @@ const ChatBubble = () => {
           <div className="w-10 rounded-full">
             <img
               alt="Avatar"
-              src="https://img.daisyui.com/images/stock/photo-1534528741775-53994a69daeb.jpg"
+              src="https://randomuser.me/api/portraits/women/43.jpg"
             />
           </div>
         </div>
@@ -48,7 +48,7 @@ const ChatBubble = () => {
           <div className="w-10 rounded-full">
             <img
               alt="Avatar"
-              src="https://img.daisyui.com/images/stock/photo-1534528741775-53994a69daeb.jpg"
+              src="https://randomuser.me/api/portraits/women/43.jpg"
             />
           </div>
         </div>
@@ -61,7 +61,7 @@ const ChatBubble = () => {
           <div className="w-10 rounded-full">
             <img
               alt="Avatar"
-              src="https://img.daisyui.com/images/stock/photo-1534528741775-53994a69daeb.jpg"
+              src="https://randomuser.me/api/portraits/men/43.jpg"
             />
           </div>
         </div>
@@ -72,7 +72,7 @@ const ChatBubble = () => {
           <div className="w-10 rounded-full">
             <img
               alt="Avatar"
-              src="https://img.daisyui.com/images/stock/photo-1534528741775-53994a69daeb.jpg"
+              src="https://randomuser.me/api/portraits/women/43.jpg"
             />
           </div>
         </div>

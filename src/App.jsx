@@ -1,20 +1,22 @@
 import ImageViewer from "./components/ImageViewer";
 import MyButton from "./components/MyButton";
 
-function App({ content, content2 }) {
+function App() {
   return (
-    <>
+    <div className="w-full">
       <ImageViewer />
-
-      <MyButton
-        className={"btn btn-primary btn-md w-full mt-5"}
-        btnName={"Submit"}
-      />
-      <MyButton
-        className={"btn btn-secondary btn-md w-full mt-5"}
-        btnName={"Post"}
-      />
-    </>
+      <div className="divider"></div>
+      <div className="w-full">
+        <MyButton
+          className={"btn btn-primary btn-md mt-5"}
+          btnName={"Submit"}
+        />
+        <MyButton
+          className={"btn btn-secondary btn-md mt-5"}
+          btnName={"Post"}
+        />
+      </div>
+    </div>
   );
 }
 
