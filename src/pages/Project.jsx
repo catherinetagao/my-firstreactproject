@@ -1,6 +1,6 @@
 import React from "react";
 
-const About = () => {
+const Project = () => {
   return (
     <div className="flex flex-col items-center justify-center" id="projects">
       <div className="container mx-auto flex flex-col gap-8">
@@ -70,10 +70,11 @@ const About = () => {
               </div>
             </div>
           </div>
+          
         </div>
       </div>
     </div>
   );
 };
 
-export default About;
+export default Project;

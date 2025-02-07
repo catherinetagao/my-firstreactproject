@@ -7,7 +7,7 @@ const MainTemplate = () => {
   return (
     <div className="flex flex-col min-h-screen m-0">
       <Navbar />
-      <main className="flex-1 m-5">
+      <main className="flex flex-1 items-center justify-center w-full">
         <Outlet />
       </main>
       <Footer />

@@ -4,7 +4,7 @@ import App from "./App.jsx";
 import "./index.css";
 import { BrowserRouter, Routes, Route } from "react-router-dom";
 import Template from "./layouts/Template.jsx";
-import About from "./pages/About.jsx";
+import Project from "./pages/Project.jsx";
 import Message from "./pages/Message.jsx";
 import MainTemplate from "./layouts/MainTemplate.jsx";
 import Template1 from "./layouts/Template1.jsx";
@@ -18,10 +18,10 @@ ReactDOM.createRoot(document.getElementById("root")).render(
         <Route element={<MainTemplate />}>
           <Route element={<Template />}>
             <Route path="/" element={<App />} />
+            <Route path="/project" element={<Project />} />
           </Route>
           <Route element={<Template1 />}>
             <Route path="/message" element={<Message />} />
-            <Route path="/about" element={<About />} />
           </Route>
         </Route>
       </Routes>
