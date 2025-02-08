@@ -14,10 +14,10 @@ const Project = () => {
           </div>
           <div className="bg-gray-300 rounded-lg shadow-lg p-6">
             <div className="text-gray-800">
-              <h1 className="text-3xl lg:text-4xl font-bold mb-4">
+              <h1 className="text-3xl lg:text-4xl font-bold mb-4 font-['Arial_Black']">
                 Simple Portfolio Website
               </h1>
-              <div className="flex flex-wrap gap-2 mb-4">
+              <div className="flex flex-wrap gap-2 mb-4 uppercase font-['Arial_Black']">
                 <span className="bg-purple-500 text-white rounded-lg px-2 py-1 text-xs">
                   Html
                 </span>
@@ -33,7 +33,7 @@ const Project = () => {
                 college. where I use HTML, CSS, and Bootstrap. This portfolio
                 website contains our activity during that time.
               </p>
-              <div className="flex justify-between items-center">
+              <div className="flex justify-between items-center uppercase font-['Arial_Black']">
                 <a
                   href="https://catherinetagao.github.io/webapp/"
                   target="_blank"
