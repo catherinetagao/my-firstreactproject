@@ -18,10 +18,10 @@ ReactDOM.createRoot(document.getElementById("root")).render(
         <Route element={<MainTemplate />}>
           <Route element={<Template />}>
             <Route path="/" element={<App />} />
-            <Route path="/project" element={<Project />} />
           </Route>
           <Route element={<Template1 />}>
-            <Route path="/message" element={<Message />} />
+            {/* <Route path="/message" element={<Message />} /> */}
+            <Route path="/project" element={<Project />} />
           </Route>
         </Route>
       </Routes>

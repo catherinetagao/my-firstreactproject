@@ -29,9 +29,9 @@ const Project = () => {
                 </span>
               </div>
               <p className="text-base leading-relaxed mb-4">
-                Lorem ipsum dolor sit amet consectetur adipisicing elit. Maiores
-                alias nisi illum, rerum in dolores! Lorem ipsum, dolor sit amet
-                consectetur adipisicing elit. Perspiciatis, fugit.
+                This is a simple portfolio that I made in my 3rd year of
+                college. where I use HTML, CSS, and Bootstrap. This portfolio
+                website contains our activity during that time.
               </p>
               <div className="flex justify-between items-center">
                 <a
@@ -70,7 +70,6 @@ const Project = () => {
               </div>
             </div>
           </div>
-          
         </div>
       </div>
     </div>
