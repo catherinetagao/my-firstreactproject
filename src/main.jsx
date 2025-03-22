@@ -5,7 +5,7 @@ import "./index.css";
 import { BrowserRouter, Routes, Route } from "react-router-dom";
 import Template from "./layouts/Template.jsx";
 import Project from "./pages/Project.jsx";
-import Message from "./pages/Message.jsx";
+import Notes from "./pages/Notes.jsx";
 import MainTemplate from "./layouts/MainTemplate.jsx";
 import Template1 from "./layouts/Template1.jsx";
 
@@ -20,7 +20,7 @@ ReactDOM.createRoot(document.getElementById("root")).render(
             <Route path="/" element={<App />} />
           </Route>
           <Route element={<Template1 />}>
-            {/* <Route path="/message" element={<Message />} /> */}
+            <Route path="/notes" element={<Notes />} />
             <Route path="/project" element={<Project />} />
           </Route>
         </Route>
