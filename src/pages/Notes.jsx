@@ -16,11 +16,11 @@ const folders = [
       },
       {
         type: "image",
-        content: "../images/IMG_20250322_101702_534.jpg",
+        content: "../assets/images/IMG_20250322_101702_534.jpg",
       },
       {
         type: "image",
-        content: "../images/IMG_20250322_101724_833.jpg",
+        content: "../assets/images/IMG_20250322_101724_833.jpg",
       },
     ],
   },
@@ -32,31 +32,31 @@ const folders = [
       { type: "note", content: "Check system updates" },
       {
         type: "image",
-        content: "../images/img20250322_10405261.png",
+        content: "../assets/images/img20250322_10405261.png",
       },
       {
         type: "image",
-        content: "../images/img20250322_10444394.png",
+        content: "../assets/images/img20250322_10444394.png",
       },
       {
         type: "image",
-        content: "../images/img20250322_10483908.png",
+        content: "../assets/images/img20250322_10483908.png",
       },
       {
         type: "image",
-        content: "../images/img20250322_10493833.png",
+        content: "../assets/images/img20250322_10493833.png",
       },
       {
         type: "image",
-        content: "../images/img20250322_10525126.png",
+        content: "../assets/images/img20250322_10525126.png",
       },
       {
         type: "image",
-        content: "../images/img20250322_10535544.png",
+        content: "../assets/images/img20250322_10535544.png",
       },
       {
         type: "image",
-        content: "../images/img20250322_10552666.png",
+        content: "../assets/images/img20250322_10552666.png",
       },
     ],
   },
