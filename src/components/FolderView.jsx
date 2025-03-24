@@ -1,7 +1,28 @@
 import React, { useState } from "react";
 
 const FolderView = ({ folders }) => {
-  const [selectedFolder, setSelectedFolder] = useState(null);
+  const [selectedFolder, setSelectedFolder] = useState({
+    name: "SQL Commands",
+    items: [
+      { type: "note", content: "SELECT * FROM table_name" },
+      {
+        type: "note",
+        content: "INSERT INTO table_name VALUES (value1, value2)",
+      },
+      {
+        type: "note",
+        content: "UPDATE table_name SET column_name = value WHERE condition",
+      },
+      {
+        type: "image",
+        content: "../assets/images/IMG_20250322_101702_534.jpg",
+      },
+      {
+        type: "image",
+        content: "../assets/images/IMG_20250322_101724_833.jpg",
+      },
+    ],
+  });
 
   const handleFolderClick = (folder) => {
     setSelectedFolder(folder);
