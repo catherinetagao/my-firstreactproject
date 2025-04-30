@@ -64,8 +64,7 @@ const folders = [
 
 const Notes = () => {
   return (
-    <div className="notes-page">
-      <h1>Notes</h1>
+    <div className="notes-page px-6 py-8 pt-0">
       <FolderView folders={folders} />
     </div>
   );
