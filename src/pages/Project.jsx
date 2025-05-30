@@ -174,7 +174,7 @@ const Project = () => {
               </p>
               <div className="flex justify-between items-center uppercase font-['Arial_Black']">
                 <a
-                  href="https://catherinetagao.github.io/webapp/"
+                  href="https://cathorbe.vercel.app/"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="bg-indigo-800 hover:bg-indigo-700 text-white rounded-lg px-6 py-3 text-center transition duration-300 ease-in-out"
@@ -182,7 +182,7 @@ const Project = () => {
                   View Project
                 </a>
                 <a
-                  href="https://github.com/catherinetagao/webapp.git"
+                  href="https://github.com/catherinetagao/myportfolio"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="flex items-center bg-gray-200 border border-gray-300 rounded-lg px-6 py-3 text-center transition duration-300 ease-in-out hover:bg-gray-300"
