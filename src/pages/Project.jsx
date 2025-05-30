@@ -90,10 +90,8 @@ const Project = () => {
               </div>
               <p className="text-base leading-relaxed mb-4">
                 This is a simple portfolio that I made in my 4th year of
-
-college. where I use HTML and CSS. This simple
-
-website created during pastime.
+                college. where I use HTML and CSS. This simple website created
+                during pastime.
               </p>
               <div className="flex justify-between items-center uppercase font-['Arial_Black']">
                 <a
@@ -105,7 +103,7 @@ website created during pastime.
                   View Project
                 </a>
                 <a
-                  href="https://github.com/catherinetagao/webapp.git"
+                  href="https://github.com/catherinetagao/myfriends"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="flex items-center bg-gray-200 border border-gray-300 rounded-lg px-6 py-3 text-center transition duration-300 ease-in-out hover:bg-gray-300"
