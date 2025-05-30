@@ -154,7 +154,7 @@ const Project = () => {
           <div className="bg-gray-300 rounded-lg shadow-lg p-6">
             <div className="text-gray-800">
               <h1 className="text-3xl lg:text-4xl font-bold mb-4 font-['Arial_Black']">
-                Simple Portfolio Website
+                Portfolio Website
               </h1>
               <div className="flex flex-wrap gap-2 mb-4 uppercase font-['Arial_Black']">
                 <span className="bg-purple-500 text-white rounded-lg px-2 py-1 text-xs">
@@ -168,9 +168,10 @@ const Project = () => {
                 </span>
               </div>
               <p className="text-base leading-relaxed mb-4">
-                This is a simple portfolio that I made in my 3rd year of
-                college. where I use HTML, CSS, and Bootstrap. This portfolio
-                website contains our activity during that time.
+                This is a simple portfolio that I made in my 4th year of
+                college. where I use React Native and Tailwind. This portfolio
+                Website created during learning the React Native and Tailwind
+                frameworks.
               </p>
               <div className="flex justify-between items-center uppercase font-['Arial_Black']">
                 <a
