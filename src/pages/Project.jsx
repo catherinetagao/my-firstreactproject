@@ -95,7 +95,7 @@ const Project = () => {
               </p>
               <div className="flex justify-between items-center uppercase font-['Arial_Black']">
                 <a
-                  href="https://myfriends-rho.vercel.app//"
+                  href="https://myfriends-rho.vercel.app"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="bg-indigo-800 hover:bg-indigo-700 text-white rounded-lg px-6 py-3 text-center transition duration-300 ease-in-out"
