@@ -78,7 +78,7 @@ const Project = () => {
           <div className="bg-gray-300 rounded-lg shadow-lg p-6">
             <div className="text-gray-800">
               <h1 className="text-3xl lg:text-4xl font-bold mb-4 font-['Arial_Black']">
-                Simple Portfolio Website
+                Simple Website
               </h1>
               <div className="flex flex-wrap gap-2 mb-4 uppercase font-['Arial_Black']">
                 <span className="bg-purple-500 text-white rounded-lg px-2 py-1 text-xs">
