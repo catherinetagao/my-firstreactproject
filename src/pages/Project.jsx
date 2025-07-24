@@ -282,7 +282,7 @@ const Project = () => {
           {/* Project 6 */}
           <div className="bg-gray-100 rounded-lg shadow-lg overflow-hidden">
             <iframe
-              src="https://mothers-day-web-app.vercel.app/"
+              src="https://greetings-letter-web-app.vercel.app/"
               title="College Portfolio Website"
               className="h-full w-full rounded-lg"
               frameBorder="0"
