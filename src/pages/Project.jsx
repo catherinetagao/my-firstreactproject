@@ -293,7 +293,7 @@ const Project = () => {
           <div className="bg-gray-300 rounded-lg shadow-lg p-6">
             <div className="text-gray-800">
               <h1 className="text-3xl lg:text-4xl font-bold mb-4 font-['Arial_Black']">
-                Mothers Day Card Website
+              Greeting Card Website
               </h1>
               <div className="flex flex-wrap gap-2 mb-4 uppercase font-['Arial_Black']">
                 <span className="bg-purple-500 text-white rounded-lg px-2 py-1 text-xs">
@@ -313,7 +313,7 @@ const Project = () => {
               </p>
               <div className="flex justify-between items-center uppercase font-['Arial_Black']">
                 <a
-                  href="https://mothers-day-web-app.vercel.app/"
+                  href="https://greetings-letter-web-app.vercel.app/"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="bg-indigo-800 hover:bg-indigo-700 text-white rounded-lg px-6 py-3 text-center transition duration-300 ease-in-out"
